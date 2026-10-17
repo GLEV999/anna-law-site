@@ -41,3 +41,7 @@ body{color:var(--gold)}
 .button-note{line-height:1.8}
 .contact-action .referral-note{max-width:300px;font-size:12px;line-height:1.7;text-align:center;margin-top:12px}
 @media(max-width:760px){.contact-action .referral-note{text-align:left}}
+a, a:link, a:visited {
+  color: #e0c58a;
+  -webkit-text-fill-color: #e0c58a;
+}
