@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.anna-gogina-yurist.dynv6.net/sitemap.xml
